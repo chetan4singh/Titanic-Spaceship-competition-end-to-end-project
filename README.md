@@ -68,23 +68,6 @@ Gradient-boosted models (LightGBM, XGBoost, CatBoost) and Random Forest outperfo
 └── README.md
 ```
 
-## ▶️ How to Run
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
-   ```
-2. Install dependencies
-   ```bash
-   pip install numpy pandas seaborn matplotlib scipy scikit-learn xgboost lightgbm catboost missingno jupyter
-   ```
-3. Download `train.csv` and `test.csv` from the [Kaggle competition page](https://www.kaggle.com/competitions/spaceship-titanic/data) and place them in the project root.
-4. Launch the notebook
-   ```bash
-   jupyter notebook "titanic-spaceship-competition-end-to-end-project.ipynb"
-   ```
-
 ## 📌 Key Takeaways
 
 - Feature engineering (splitting `PassengerId` and `Cabin`, creating spending/age groups) added significant predictive signal beyond the raw features.
