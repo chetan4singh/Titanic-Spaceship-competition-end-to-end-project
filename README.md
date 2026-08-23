@@ -1,4 +1,4 @@
-# titanic-spaceship-competition-end-to-end-project
+# Titanic-Spaceship-competition-end-to-end-project
 🚀 Spaceship Titanic — Kaggle Competition (End-to-End ML Project)
 
 An end-to-end machine learning project solving Kaggle's Spaceship Titanic competition — a binary classification problem where the goal is to predict whether a passenger was transported to an alternate dimension after the spaceship Titanic collided with a spacetime anomaly.
