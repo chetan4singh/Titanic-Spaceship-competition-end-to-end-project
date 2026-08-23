@@ -23,8 +23,6 @@ The dataset is provided by Kaggle and includes `train.csv` and `test.csv` with f
 | `Name` | Passenger's first and last name |
 | `Transported` | **Target** — whether the passenger was transported (train only) |
 
-> Note: Raw data files are not included in this repo — download them from the [Kaggle competition page](https://www.kaggle.com/competitions/spaceship-titanic/data) and place `train.csv` / `test.csv` in the project root before running the notebook.
-
 ## 🔍 Project Workflow
 
 1. **Basic Data Understanding** — shape, dtypes, duplicates, missing values, cardinality checks
